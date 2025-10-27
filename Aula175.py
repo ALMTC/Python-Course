@@ -13,4 +13,3 @@ print("-----------------")
 print_iter(permutations(pessoas, 2))
 print("-----------------")
 print_iter(product(*camisetas))
- 
